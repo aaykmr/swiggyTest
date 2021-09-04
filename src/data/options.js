@@ -17,7 +17,7 @@ const options = {
             {name:"Oregano",type:"veg",id:"1"},
             {name:"Multigrain",type:"veg",id:"2"},  
             {name:"White",type:"veg",id:"3"},
-            {name:"Guten-Free",type:"veg",id:"4"},
+            {name:"Gluten-Free",type:"veg",id:"4"},
         ],
         prepChoice:[
             {name:"Plain Bread",type:"veg",id:"1",price:30},
